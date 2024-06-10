@@ -1,0 +1,50 @@
+
+
+pacman::p_load(rio, tidyverse, forecast)
+
+
+# Carregando dados --------------------------------------------------------
+
+dados <- iris
+dados2 <- mtcars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
